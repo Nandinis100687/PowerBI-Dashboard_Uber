@@ -1,0 +1,1 @@
+This repository contains a Power BI dashboard built to analyze business travel data, focusing on trip details such as start and end locations, purpose of travel, mileage, and more. The dashboard offers key insights into travel patterns, distances, and trip purposes to help businesses optimize their travel logistics and decision-making.
